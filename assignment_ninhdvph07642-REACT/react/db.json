@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "qtrqeexe9",
+      "name": "Áo phông nam",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ninhdvph07642-e566c.appspot.com/o/images%2Fao-thun-tap-gym-pilates-sportee-cho-nam-trang.jpg?alt=media&token=c2e7fbab-d0ed-412e-8201-7e9afe67eda5",
+      "price": "249000"
+    },
+    {
+      "id": "4rgpxfip3",
+      "name": "Mũ vải nữ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ninhdvph07642-e566c.appspot.com/o/images%2Fe3af72d2fc7d187af8e640867b7fb1c2.jpg?alt=media&token=21b28c13-c1c5-419d-bfc3-050ad2eccc76",
+      "price": "250000"
+    }
+  ]
+}
