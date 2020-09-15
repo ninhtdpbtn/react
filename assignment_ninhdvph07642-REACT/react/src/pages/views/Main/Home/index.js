@@ -25,7 +25,7 @@ const Home = ({item}) => {
               <div className="featured">
                 <a href="#" className="featured-img" style={{backgroundImage: 'url(images/men.jpg)'}} />
                 <div className="desc">
-                  <h2><a href="#">Shop Men's Collection</a></h2>
+                  <h2><a href="#">Shodp Men's Collection</a></h2>
                 </div>
               </div>
             </div>
